@@ -6,7 +6,8 @@ namespace MSWindowsAppLauncher.M_MSWindowsAppLauncher;
 
 internal class AppLaunchServices
 {
-    private AppLaunchServices() => throw new RuntimeBinderException("Util classes must not be instantiated!     ");
+    private AppLaunchServices() 
+        => throw new RuntimeBinderException("Util classes must not be instantiated!     ");
 
     internal static async Task S_LaunchApps(List<AppLaunchModel> in_appLaunchModels)
     {
