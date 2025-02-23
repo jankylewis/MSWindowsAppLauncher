@@ -1,0 +1,6 @@
+C:\Users\vinh.tran\AppData\Local\Programs\Aqua\bin\aqua64.exe -admin
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Z:\Microsoft_Visual_Studio\IDE\Common7\IDE\devenv.exe
+C:\Users\vinh.tran\AppData\Local\AnthropicClaude\claude.exe
+C:\Users\vinh.tran\AppData\Local\Discord\Update.exe
+C:\WINDOWS\system32\Taskmgr.exe

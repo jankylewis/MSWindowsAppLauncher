@@ -1,0 +1,14 @@
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\bin\Debug\net9.0\MSWindowsAppLauncher.exe
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\obj\Debug\net9.0\MSWindowsAppLauncher.GeneratedMSBuildEditorConfig.editorconfig
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\obj\Debug\net9.0\MSWindowsAppLauncher.AssemblyInfoInputs.cache
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\obj\Debug\net9.0\MSWindowsAppLauncher.AssemblyInfo.cs
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\obj\Debug\net9.0\MSWindowsAppLauncher.csproj.CoreCompileInputs.cache
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\obj\Debug\net9.0\MSWindowsAppLauncher.dll
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\obj\Debug\net9.0\refint\MSWindowsAppLauncher.dll
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\obj\Debug\net9.0\MSWindowsAppLauncher.pdb
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\bin\Debug\net9.0\MSWindowsAppLauncher.deps.json
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\bin\Debug\net9.0\MSWindowsAppLauncher.runtimeconfig.json
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\bin\Debug\net9.0\MSWindowsAppLauncher.dll
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\bin\Debug\net9.0\MSWindowsAppLauncher.pdb
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\obj\Debug\net9.0\MSWindowsAppLauncher.genruntimeconfig.cache
+Y:\CSharp_Apps\MSWindowsAppLauncher\MSWindowsAppLauncher\obj\Debug\net9.0\ref\MSWindowsAppLauncher.dll
